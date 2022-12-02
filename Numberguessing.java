@@ -31,7 +31,7 @@ public class Numberguessing
 		}
         if (i == K) 
         {
-			System.out.println("You have exhausted K trials.");
+			System.out.println("Oh No!! You have exhausted K trials.");
             System.out.println("The number was " + number);
 		}
 	}
